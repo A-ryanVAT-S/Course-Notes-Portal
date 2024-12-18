@@ -13,4 +13,15 @@
         "updatedAt": "2024-12-18T04:44:06.038Z",
         "__v": 0
     }
-}
+} 
+modified:   backend/controllers/auth.controller.mjs
+        new file:   backend/controllers/notes.controller.mjs
+        new file:   backend/controllers/user.controller.mjs
+        modified:   backend/index.mjs
+        new file:   backend/models/Note.model.mjs
+        modified:   backend/models/User.model.mjs
+        modified:   backend/routes/auth.route.mjs
+        new file:   backend/routes/notes.routes.mjs
+        new file:   backend/routes/user.routes.mjs
+        new file:   backend/tests.txt
+        modified:   package-lock.json
